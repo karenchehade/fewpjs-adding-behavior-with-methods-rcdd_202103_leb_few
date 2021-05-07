@@ -4,11 +4,11 @@ constructor(name,sex){
   this.sex=sex;
 }
 }
- 
+
 class Dog {
   //...
 }
- 
+
 class Bird {
   //...
 }
